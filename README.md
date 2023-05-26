@@ -1,3 +1,14 @@
+![image](https://github.com/mukunjufelicity/Hotel-Booking-Analysis_SQL-Power-BI/assets/8385040/f9650c1c-15c1-4cc1-bb2b-ec83f7a2df1d)
+
+
+**OVERVIEW:**
+
+The objective of this project is to gather information about Hotel Bookings done since the year 2018 to 2020 from the locally sourced dataset.
+
+The dataset will then undergo a thorough exploratory data analysis, aimed at gaining valuable insights.
+
+These insights will be effectively visualized using the Power BI tool to provide a clear and comprehensive understanding of the data. The project's primary focus is to extract information about the Hotel Bookings and turn it into useful insights and visual representations.
+
 ![image](https://github.com/mukunjufelicity/Hotel-Booking-Analysis_SQL-Power-BI/assets/8385040/13b22f83-70eb-40cf-8857-d0528c1c21f4)
 
 **DATA USED**
