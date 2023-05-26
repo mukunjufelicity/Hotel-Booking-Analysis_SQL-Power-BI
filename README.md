@@ -1,6 +1,3 @@
-![image](https://github.com/mukunjufelicity/Hotel-Booking-Analysis_SQL-Power-BI/assets/8385040/f9650c1c-15c1-4cc1-bb2b-ec83f7a2df1d)
-
-
 **OVERVIEW:**
 
 The objective of this project is to gather information about Hotel Bookings done since the year 2018 to 2020 from the locally sourced dataset.
