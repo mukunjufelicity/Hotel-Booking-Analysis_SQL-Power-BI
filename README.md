@@ -6,7 +6,7 @@ The dataset will then undergo a thorough exploratory data analysis, aimed at gai
 
 These insights will be effectively visualized using the Power BI tool to provide a clear and comprehensive understanding of the data. The project's primary focus is to extract information about the Hotel Bookings and turn it into useful insights and visual representations.
 
-![image](https://github.com/mukunjufelicity/Hotel-Booking-Analysis_SQL-Power-BI/assets/8385040/13b22f83-70eb-40cf-8857-d0528c1c21f4)
+![image](https://github.com/mukunjufelicity/Hotel-Booking-Analysis_SQL-Power-BI/blob/main/chunks/hotelbooking.png)
 
 **DATA USED**
 
