@@ -36,7 +36,7 @@ Q: What trends can we see in the data?
 
 - Hotel Revenue grew per year between 2018 and 2019 and per hotel type.
 - As per the Parking_Percentage per Hotel there is not much growth in utilization of the parking lot. Roughly 3% of guests booked in the Resort Hotel used the parking lot, thus there is no need to increase the parking lot size.
-- Revenue is the main trend is has an upward trajectory per year. In addition, the Average Daily Rate (adr), average Discount given to the guests and car Parking Lot Spaces also have an increasing trend per year.
+- Revenue is the main trend, which has an upward trajectory per year. In addition, the Average Daily Rate (adr), average Discount given to the guests and car Parking Lot Spaces also have an increasing trend per year.
 
 **LIMITATIONS:**
 - The data for the year 2020 is incomplete, thus an inconclusive result if there was an increase in Revenue between 2019 and 2020.
